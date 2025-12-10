@@ -1,5 +1,5 @@
 # Congnifz-Python-Internship-Project-3
-Email Validator program for Cognifyz Python Internship.
+Level 1 – Task 3 Email Validator program for Cognifyz Python Internship.
 
 # Level 1 – Task 3: Email Validator Program
 
